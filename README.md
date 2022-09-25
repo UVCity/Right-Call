@@ -1,5 +1,4 @@
-# CapstoneProjectTemplate /* Replace this line with the title of your project */
-
+Right Call
 ## **Summary**
 
 In this software, the users will see a video of a game with many timestamped calls in it. The user will try to make these calls during the video and at the end, they get a report of how many calls are missed, how many are correct.
