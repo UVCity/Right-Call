@@ -2,22 +2,22 @@
 
 ## **Summary**
 
-Put a very high-level summary of the project.
+In this software, the users will see a video of a game with many timestamped calls in it. The user will try to make these calls during the video and at the end, they get a report of how many calls are missed, how many are correct.
 
 ## **Team Members**
 
-- Joe Black
-- Joe Pesci
-- Joe Dalton
+-Bradley Vaal
+-Jeremiah Deffedndall
+-Joshua Neumann
+-Luck Leckron
+-Lyle Dotson
+
 
 ## **Client Partner Information**
 
 ### *Company:*
-WHATEVER COMPANY or CORRESPONDENCE
+Capstone Connector
 
-### *People:*
-- Jane Fonda
-- Jane Lynch
 
 ## **Links**
 
