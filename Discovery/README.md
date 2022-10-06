@@ -1,7 +1,7 @@
 ## **Discovery**
 
 # Meeting Participants
-Bradley, Lyle, Luke, Jeremiah, Braden, Brad
+Bradley, Lyle, Luke, Jeremiah, Joshua, Braden, Brad
 
 # Files
 Minutes.md - minutes file of the meeting, an outline of what topics were discussed and things that were clarified
