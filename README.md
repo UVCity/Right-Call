@@ -8,7 +8,7 @@ In this software, the users will see a video of a game with many timestamped cal
 -Bradley Vaal
 -Jeremiah Deffedndall
 -Joshua Neumann
--Luck Leckron
+-Luke Leckron
 -Lyle Dotson
 
 
