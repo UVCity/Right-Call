@@ -1,0 +1,21 @@
+{
+    "id": "fasdfasdfsf",
+    "videoURL": "aws.video.com",
+    "timeStamps": [
+        {
+            "id": "fadsfadf",
+            "startTime": "10sec",
+            "endTime": "20sec",
+            "ScreenSpot": "bottom-right",
+            "Activity": {
+                "id": "dsfadlsfadsfasdf",
+                "Question": "What Foul occured",
+                "Answers": [
+                    "answer1",
+                    "answer2",
+                    "answer3"
+                ]
+            }
+        }
+    ]
+}
