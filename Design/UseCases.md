@@ -1,7 +1,52 @@
+## Actors
+- Business Administrator (Admin)
+- Trainee
 ## Use Cases
 
-1. The website can display a video file.
-2. As a user, the video stops at a timestamp.
-3. As a user, when the video stops, a pop-up appears with a question.
-4. The user picks their call/answer.
-5. The user receives feedback on their answer.
+- UC1: The website can display a video file.
+    -
+    -
+    -
+    -
+
+- UC2: A video stops at a timestamp.
+    -
+    -
+    -
+    -
+
+- UC3: A pop-up appears with a question asking about the call in the video at each timestamp.
+    -
+    -
+    -
+    -
+
+- UC4: The trainee picks their call/answer.
+    -
+    -
+    -
+    -
+
+- UC5: The trainee receives feedback on their answer.
+    -
+    -
+    -
+    -
+
+- UC6: The trainee's webcam will track where the trainee is looking on the screen.
+    -
+    -
+    -
+    -
+
+- UC7: The Info on the webcam and time stamp will determind if the trainee was looking in the correct location.
+    -
+    -
+    -
+    -
+
+- UC8: The admin can upload a video and place timestamps connected to a question (calls).
+    -
+    -
+    -
+    -
