@@ -3,6 +3,8 @@
 - Figma link: https://www.figma.com/file/GAmmZXeNbsSKGaqgl7OWeW/Capstone-Prototype
 - Youtube link: https://www.youtube.com/watch?v=9QFsOv2LoQQ
 
+Prototype Images:
+
 <img src="Pictures\Prototype_1.png"/>
 <img src="Pictures\Prototype_2.png"/>
 <img src="Pictures\Prototype_3.png"/>
