@@ -5,7 +5,8 @@
   drag-and-drop actions, multiple choice questions, eye-tracking actions
 - FR4: The application will retrieve the course videos and the information associated with their timestamps from a 
   database.
-- FR5: An admin will be able to upload videos and their timestamp information to the database.  
+- FR5: An admin will be able to upload videos and their timestamp information to the database.
+- FR6: The user will recieve feedback based on the result of the timestamp action.  
 
 ## Non-functional Requirements 
 - NR1: 
