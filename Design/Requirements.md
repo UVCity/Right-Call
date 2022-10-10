@@ -1,7 +1,7 @@
 ## Functional Requirements
 - FR1: The application will display a video/series of videos for the course the user is enrolled in.  
 - FR2: Each video will have multiple timestamps where the video will stop and display an action.
-- FR3: An admin will be able to assign actions to each timestamp in the video.
+- FR3: An admin will be able to assign question-related actions to each timestamp in the video.
 - FR4: An admin will be able to assign eye-tracking actions to a timestamp.
 - FR5: A user will use their webcam during the eye-tracking activity to know if they are looking in the right place during 
   the call.
