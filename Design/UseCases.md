@@ -15,7 +15,7 @@
       and a set of interactions to continue watching the videos.
     - The actor at play is the admin
     - The admin will have the ability to add interactions to the video on their website. The admin can visualize where and when the timestamp pause is initiated.
-    - This connects to BR2
+    - This connects to BR1
  
 - UC3: A pop-up appears with a question asking about the call in the video at each timestamp.
     - We need this use case as an interactable function of the application. In order for the trainee to successfully pass the RefReps course, they must observe
@@ -23,7 +23,7 @@
     - The actor at play is the trainee
     - The trainee will have the ability to interact with the video at a specific time. In order to continue with the training to complete RefReps course, they
     must interact with a pop-up.
-    - This connects to BR1
+    - This connects to BR2
  
 - UC4: The trainee picks their call/answer.
     - We need this use case for the lesson engaging functionality of the application. Timestamps suggest multiple answers to their questions, therefor the trainee
@@ -38,7 +38,7 @@
     - The actor at play is the trainee
     - When the trainee reaches a timestamp in the video, is prompted with a question, and answers that question they
      are given proper feedback on whether they made the right call, or if not, what is the right call and why it is the right call.
-    - This connects to BR3
+    - This connects to BR2
  
 - UC6: The trainee's webcam will track where the trainee is looking on the screen.
     - This use case is important because using eye tracking on certain calls to see what the trainee is looking at will
@@ -46,7 +46,7 @@
     - The actor at play is the trainee
     - The admin will assign a timestamp with an eye-tracking activity that will check where the trainee is looking on
       the screen during that time. When that timestamp arrives, the software should check what part of the screen the trainee's eyes are looking at.
-    - This connects to BR4
+    - This connects to BR2
  
 - UC7: The Info on the webcam and time stamp will determine if the trainee was looking in the correct location.
     - This use case is important because giving the trainee proper feedback based on where they were looking during the
@@ -54,7 +54,7 @@
     - The actor at play is the trainee
     - The admin will assign an eye-tracking activity to a timestamp, the software will check what part of the screen
       the trainee is looking at, and then proper feedback will be given to the trainee to help better their understanding of the call.
-    - This connects to BR4
+    - This connects to BR2
  
 - UC8: The admin can upload a video and place timestamps connected to a question (calls).
     - This use case is important because it is the basis of the system that offers the trainee this learning
@@ -62,4 +62,4 @@
     - The actor at play is the admin
     - The admin will find a time in the video, and assign a timestamp to it along with the specific activity they want
       to be associated with it. When the user reaches that part of the video, the activity will run and display the proper feedback one it is answered.
-    - This connects to BR2
+    - This connects to BR1
