@@ -11,8 +11,10 @@
 - FR9: Admin should be able to change and delete videos from the database. -- HIGH -- BR1
 - FR10: Admin should be able to upload timestamp information to the database. -- HIGH -- BR1
 - FR11: Admin should be able to change and delete timestamp information from the database. -- HIGH -- BR1
-- FR12: User shall receive feedback based on the result of the timestamp action. -- LOW -- BR1
+- FR12: User shall receive feedback based on the result of the timestamp action. -- Medium -- BR1
 - FR13: User should see on the screen where they were meant to be looking if the system detects no webcam was used. -- Low -- BR2
+- FR14: User shall see their overall results based on all of their answers to each call at the end of the lesson/video, which should consist of total questions, percentage, which questions were correct/incorrect. -- Medium -- BR2
+- FR15: User shall have the option to retake a lesson is they did not pass or get all the calls correct. -- Low -- BR1
 
 ## Non-functional Requirements
 - NR1: The system shall still work and display feedback if the user cannot use their webcam. -- Medium -- BR2
