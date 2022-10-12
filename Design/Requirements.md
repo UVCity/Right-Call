@@ -1,5 +1,5 @@
 ## Functional Requirements
-- FR1: The user should select which right call lesson they want to take. -- MEDIUM -- BR1
+- FR1: The user should select which right call lesson they want to take. -- HIGH -- BR1
 - FR2: The application should display a video/series of videos for the course the user is taking. -- HIGH -- BR1
 - FR3: The video should have question-related actions assigned to each timestamp in the video. -- HIGH -- BR1
 - FR4: The system should have eye-tracking actions assigned to each timestamp. -- MEDIUM -- BR2
