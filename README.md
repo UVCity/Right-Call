@@ -6,7 +6,7 @@ In this software, the users will see a video of a game with many timestamped cal
 ## **Team Members**
 
 -Bradley Vaal
--Jeremiah Deffedndall
+-Jeremiah Deffendall
 -Joshua Neumann
 -Luke Leckron
 -Lyle Dotson
