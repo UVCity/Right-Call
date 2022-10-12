@@ -14,6 +14,7 @@
 - FR12: User shall see their answer results to each call at the end of the lesson/video. - MEDIUM - BR2
 - FR13: User shall have the option to retake a lesson if they did not pass or get all the calls correct. - LOW - BR1
 - FR14: User shall have the option to watch the video in a virtual reality environment. - LOW - BR1
+- FR15: User should be able to login and logout out of the application. - MEDIUM - BR1
 
 
 ## Non-functional Requirements
