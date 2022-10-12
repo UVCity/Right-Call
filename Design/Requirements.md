@@ -18,4 +18,4 @@
 
 
 ## Non-functional Requirements
-- NR1: The user should not be able to go back and redo a question at a timestamp if they were incorrect during their current video session, which means they must complete the whole video before reattempting the lesson. -- MEDIUM -- BR2
+- NR1: The user should not be able to go back and redo a question at a timestamp if they were incorrect during their current video session, which means they must complete the whole video before reattempting the lesson. -- MEDIUM -- BR1
