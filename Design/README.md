@@ -2,8 +2,8 @@
 
 Design documents here... Explain each folder/file in this readme file.
 
-- video_object_sample.json - An early mockup of what our MongoDB files will look like
-- Pictures: Contains pictures used in these design files.
+- First Iteration Features Project Management Link: https://github.com/users/UVCity/projects/1
+- Pictures: Contains pictures used in these design files and an early mockup of what our MongoDB files will look like.
 - Architecture.md: This file contains the architecture of our system.
 - BusinessRequirements.md: This file contains the business requirements of our project and each one has an id and an explanation for why it's a business requirement.
 - DomainModel.md: This file contains the domain model and an explanation of what each class means to the domain.
