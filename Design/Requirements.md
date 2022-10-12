@@ -8,7 +8,7 @@
 - FR7: User shall select their answer to each timestamped call throughout the video/lesson. - HIGH - BR1
 - FR8: Admin should be able to upload, change, retrieve, and delete videos from the database. - MEDIUM - BR1
 - FR9: Admin should be able to upload, change, retrieve, and delete timestamp information from the database. - MEDIUM - BR1
-- FR10: User shall receive feedback based on the result of the timestamp action - MEDIUM - BR1
+- FR10: User shall receive feedback based on the result of the timestamp action - MEDIUM - BR2
 - FR11: User should see on the screen where they were meant to be looking if the system detects no webcam was used. - LOW - 
   BR2
 - FR12: User shall see their answer results to each call at the end of the lesson/video. - MEDIUM - BR2
