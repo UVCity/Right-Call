@@ -28,6 +28,4 @@ Capstone Connector
 
 ## **Code Repositories**
 
-- [Mobile App - Android](https://www.github.com/WHEREEVER_THE_ANDROID_CODE_IS/)
-- [Php Backend](https://www.github.com/WHEREEVER_THE_PHP_CODE_IS)
-- Others if more.
+- [Right-Call Github Repository](https://github.com/UVCity/Right-Call)

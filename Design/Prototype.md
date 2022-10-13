@@ -1,7 +1,7 @@
 ## Prototype
 
 - Figma link: https://www.figma.com/file/GAmmZXeNbsSKGaqgl7OWeW/Capstone-Prototype
-- Youtube link: https://www.youtube.com/watch?v=9QFsOv2LoQQ
+- Youtube link: https://www.youtube.com/watch?v=eHMxTvTBJlQ
 
 Prototype Images:
 
