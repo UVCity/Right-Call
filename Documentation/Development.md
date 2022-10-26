@@ -45,7 +45,7 @@ The API is now running and ready to recieve requests.
 
 ## Running Tests
 This project uses Jest as a testing framework. All tests can be run through npm.
- ### For API Tests
+ ### For Unit Tests
  1. Set web as your current directory in the terminal
  2. Run the command <br>
  "Npm run test:unit"<br>
