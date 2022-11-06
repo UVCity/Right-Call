@@ -28,4 +28,5 @@ Capstone Connector
 
 ## **Code Repositories**
 
-- [Right-Call Github Repository](https://github.com/UVCity/Right-Call)
+- [Right-Call Main Github Repository](https://github.com/UVCity/Right-Call)
+- [Right-Call Software Github Repository](https://github.com/BRADrocket72/right-call-web)
