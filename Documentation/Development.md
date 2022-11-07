@@ -35,13 +35,15 @@ Since the api is running node, there is a similar process to starting the front 
 There will be a .env file that will neeed to be given to new devs. It will contain the connection string to connect to the backend.(This is not set yet)
 
 1. Start with a terminal at the root of your project. Then <br>
-    cd api<br>
+    >cd api<br>
     npm install<br>  
+
 This will install all dependencies needed for the api.
 <img src="../Documentation\Assets\deps_for_api.png" alt="Install deps for API">
 
 2. Now we can run the command<br>
-    npm start<br>
+    >npm start<br>
+
 And the server will be running on port 3000.
 <img src="../Documentation\Assets\server_started.png" alt="server running">
 
@@ -52,7 +54,7 @@ This project uses Jest as a testing framework. All tests can be run through npm.
  ### For Unit Tests
  1. Set web as your current directory in the terminal
  2. Run the command <br>
- "Npm run test:unit"<br>
+ >Npm run test:unit<br>
  3. All unit tests will run and the output will be placed in the console.
 <img src="../Documentation\Assets\console_after_tests.png" alt="console after tests">
 
