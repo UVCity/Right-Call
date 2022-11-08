@@ -26,15 +26,17 @@ This project is written in two distinct elements.
 2. To acquire the rest of the dependencies for this project, open up the repository folder in VScode.
 
 <img src ="../Documentation\Assets\open_in_vscode.png" alt="Folder open in VsCode" >
-3. Now we need to open up a terminal to install dependencies for the front end<br>
-    cd web<br>
-    npm install
+3. Now we need to open up a terminal to install dependencies for the front end
+
+>`cd web`<br>
+`npm install`
 
 <img src="../Documentation\Assets\install_deps.png" alt="deps installed">
 
 4. Now that all of our dependencies are installed we can run the web page.<br>
 By running:<br>
-    npm run serve<br>
+>`npm run serve`
+
 The home page will be avaialble at localhost:8080. View it in your browser<br>
 - If there are any dependencies that are missing, make sure to run npm install "package name"
 <img src = "..\Documentation\Assets\home_page.png" alt="home page">
@@ -45,7 +47,7 @@ This project uses Jest as a testing framework. All tests can be run through npm.
  ### For Unit Tests
  1. Set web as your current directory in the terminal
  2. Run the command <br>
- >Npm run test:unit<br>
+ >`Npm run test:unit`<br>
  3. All unit tests will run and the output will be placed in the console.
 <img src="../Documentation\Assets\console_after_tests.png" alt="console after tests">
 
