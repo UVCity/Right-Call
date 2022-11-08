@@ -1,5 +1,16 @@
 # Development
+## Source Code
+The source code for this project is locaated at:<br>
+ <a href="https://github.com/BRADrocket72/right-call-web">https://github.com/BRADrocket72/right-call-web</a>
 
+ You can download the zip file, or open it through an IDE. To open it through visual studio code:<br>
+ 1. Open a new VSCode Window and click on Clone Git Repository
+ 2. Paste URL from above into the commant pallete
+<img src='./Assets/clone_repo_dev.png' alt="Cloning repository through VS Code">
+ The repository should pull down the code from the main branch.<br>
+
+ ## Rules for Pull Requests
+ For any new features, they must be made on their own branch. When the feature is complete, please go to github, and create a Pull request into the main branch. At least one other developer must apporve the request before it is merged in.
 
 
 ## Suggested IDE
