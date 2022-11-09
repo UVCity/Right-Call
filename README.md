@@ -24,9 +24,10 @@ Capstone Connector
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
-- ... any other documents/links you see need
+- [Project Management Tool For First Iteration Features](https://github.com/users/UVCity/projects/1)
+- [Project Management Tool For Second Iteration Features](https://github.com/users/UVCity/projects/3/views/1)
 
 ## **Code Repositories**
 
 - [Right-Call Main Github Repository](https://github.com/UVCity/Right-Call)
-- [Right-Call Software Github Repository](https://github.com/BRADrocket72/right-call-web)
+- [Right-Call Source Code Github Repository](https://github.com/BRADrocket72/right-call-web)

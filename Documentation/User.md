@@ -7,25 +7,26 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 
 ## Select Lesson
 - There are a group of lessons available at the homepage to select from.
-- A general overview of a lesson is described in each lesson object.
 - Select a lesson by clicking on a lesson object.
 
 ## Completing a Lesson
-<img src="Assets/Lesson_start.png" width="600">
+<img src="Assets/video_start.png" width="600">
 
 - After selecting a lesson, the user is shown a video file.
-- To start a lesson the user must play the video.
+- To start a lesson the user must play the video by pressing the play button.
+- The current time of the video is displayed beneath the video player along with the length of the video.
 
 ## Make a Call
-<img src="Assets/What_was_the_call.png" width="600">
+<img src="Assets/what_is_the_call.png" width="600">
 
 - During a lesson, there will be a number of questions that appear while the user is watching the video file.
-- The user should select what they believe a right referee call.
+- The user should select what they believe is the right referee call.
+- After selecting an answer, the user should press the play button again and resume the video until either the next question pops up or the video ends.
 
 ## Lesson Results
-<img src="Assets/Lesson_results.png" width="600">
+<img src="Assets/results.png" width="600">
 
-- At the end of a Video, a Lesson result popup will appear.
-- Lesson results includes the % of right and wrong calls that a user has made during the lesson.
-- Lesson results includes the title of each question that asked while watching the video, and if they were answered correctly or incorrectly.
-- Lesson results also includes a button that links a user back to the Lesson Selection Page.
+- At the end of a Video, a Lesson results pop-up will appear.
+- This Lesson results pop-up includes the % of right and wrong calls that a user has made during the lesson.
+- The lesson results pop-up includes the title of each question that asked while watching the video, and if they were answered correctly or incorrectly.
+- After viewing the results, the user should press the "Back to Lesson Selection Page" button which sends them back to the original page to select another video.
