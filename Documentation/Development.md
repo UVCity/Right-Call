@@ -1,6 +1,6 @@
 # Development
 ## Source Code
-The source code for this project is locaated at:<br>
+The source code for this project is located at:<br>
  <a href="https://github.com/BRADrocket72/right-call-web">https://github.com/BRADrocket72/right-call-web</a>
 
  You can download the zip file, or open it through an IDE. To open it through visual studio code:<br>
