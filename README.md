@@ -24,7 +24,8 @@ Capstone Connector
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
-- [Project Management Tool For Iteration Features](https://github.com/users/UVCity/projects/1)
+- [Project Management Tool For First Iteration Features](https://github.com/users/UVCity/projects/1)
+- [Project Management Tool For Second Iteration Features](https://github.com/users/UVCity/projects/3/views/1)
 
 ## **Code Repositories**
 
