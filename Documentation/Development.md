@@ -48,14 +48,14 @@ This project uses Jest as a testing framework. All tests can be run through npm.
  1. Set web as your current directory in the terminal
  2. Run the command <br>
  >`Npm run test:unit`<br>
- 3. All unit tests will run and the output will be placed in the console.
+ 3. All tests will run and the output will be placed in the console.
 <img src="../Documentation\Assets\console_after_tests.png" alt="console after tests">
 
 ## Writing Tests
 Sample Test
 <img src="../Documentation\Assets\writing_test_sample.png" alt= "writing test sample"><br>
 1. Give the test suite the name of the the component you are testing. In this case, it is VideoEditor.vue
-2. In the beforeEacht, mount your component. This means that each test will have a component in the dom to test. Mount is needed to test children component, but it is often better to shallowMount to increase test speed
+2. In the beforeEach, mount your component. This means that each test will have a component in the dom to test. Mount is needed to test children component, but it is often better to shallowMount to increase test speed
 3. Write your test case. In the it() write the actions that your test will be taking, and at the end expect a value.
 
 Try to write a test for every function a component has. Try to be as comprehensive as possible.
