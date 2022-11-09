@@ -17,7 +17,7 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - The current time of the video is displayed beneath the video player along with the length of the video.
 
 ## Make a Call
-<img src="Assets/What_is_the_call.png" width="600">
+<img src="Assets/what_is_the_call.png" width="600">
 
 - During a lesson, there will be a number of questions that appear while the user is watching the video file.
 - The user should select what they believe is the right referee call.
