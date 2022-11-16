@@ -20,6 +20,15 @@ The source code for this project is located at:<br>
 This project is written in two distinct elements.
 - The Presentation layer will be in the web folder. All visual frontend code will be based in this folder.This will primarily be written in Vue and Typescript.
 
+## Replicate via Docker
+This project contains a .devcontainer file that can be rna to ensure all developers have the same VSCode extenstions installed. Running in a dev container can take a lot of resources, but it helps ensure that the project is run in similar environments on each machine.
+
+1. When the project has been cloned into VSCode, a popup will appear in the bottom right. click "Reopen in a Dev Container".
+This will build the container, and install all of the dependencies needed to get started on the project.
+<img src="../Documentation/Assets/start_in_dev_container.png">
+2. If the project is running too slow, please provide Docker with more resources through the Docker Daemon on desktop. Follow the <a href="https://docs.docker.com/config/containers/resource_constraints/"> Docker Documentation for adding more resources</a>
+
+
 ## Starting the Front End
 1. The most important package is Node.js, this will be used to download most of the other dependencies. The download link is https://nodejs.org/en/download/
 
