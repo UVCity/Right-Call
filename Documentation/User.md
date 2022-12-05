@@ -32,7 +32,7 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - After viewing the results, the user should press the "Back to Lesson Selection Page" button which sends them back to the original page to select another video.
 
 ## Register for the Website
-<img scr="Assets/register_screen.png" width="600">
+<img src="Assets/register_screen.png" width="600">
 
 - If one does not have an account, they are can go to the Register Page from the Login Page.
 - User can create a username and password for the use of the website.
