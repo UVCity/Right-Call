@@ -48,7 +48,7 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - If the account does not exist, they will remain on the Login Page with a message saying "Invalid Username or Password".
 
 ## Upon Logging In
-<img src="Assets/login_screen.png" width="600">
+<img src="Assets/admin_per.png" width="600">
 
 - Those logged in as a student, will be taken to the lesson selection screen as seen earlier in this dicumentation.
 - Any other will be directed to the admin page (both admin page and instuctor page would be very similar with the only difference being that admins can't upload videos).
