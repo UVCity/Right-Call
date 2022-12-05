@@ -40,7 +40,7 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - Once all boxes are filled, they hit the register button and if successful, it will direct them back to the Login Screen.
 
 ## Login to The Website
-<img src="Assets/admin_per.png" width="600">
+<img src="Assets/login_screen.png" width="600">
 
 - If one is already registered, they can enter their username and password to login into their account in the text fields provided.
 - If the account exists, they will be directed to their respective page based on if they registered as student, instructor, or admin.
