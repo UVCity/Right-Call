@@ -44,13 +44,14 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 
 - If one is already registered, they can enter their username and password to login into their account in the text fields provided.
 - If the account exists, they will be directed to their respective page based on if they registered as student, instructor, or admin.
+- Note: Admin option is only temporary.
 - If the account does not exist, they will remain on the Login Page with a message saying "Invalid Username or Password".
 
 ## Upon Logging In
 <img src="Assets/admin_per.png" width="600">
 
 - Those logged in as a student, will be taken to the lesson selection screen as seen earlier in this dicumentation.
-- Any other will be directed to the admin page (both admin page and instuctor page would be very similar with the only difference being that admins can't upload videos)
+- Any other will be directed to the admin page (both admin page and instuctor page would be very similar with the only difference being that admins can't upload videos).
 
 ## Uploading Videos
 <img src="Assets/upload_vid.png" width="600">
@@ -60,9 +61,18 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - If not, an error message would appear.
 
 ## Deleting Videos/Lessons
+<img src="Assets/delete_vid.png" width="600">
 
 - All lessons would appear on the users (admin/instructor) screen that they have access to/created.
 - If the user wants to delete a lesson, they would click on the lesson.
 - A popup would then appear asking if they would like to delete that specific video. If they click yes, the video would be erased and if they click no, it would direct them back to their previous page.
 
+## Adding Timestamps to Existing Lessons
+<img src="Assets/create_lesson.png" width="600">
+
+- The admin/instructor can see what lesson s they had created and like deletion, they can click on the lesson they wish to edit.
+- The User would be taken to a Lesson Creation page where they can add timestamps to the video they uploaded to the lesson and even attach an activity (only multiple choice questions) to the video.
+- User would click the "Add Timestamp Here" button to save a timestamp where that timestamp would then appear in a menu above the big button with an additional option to add an activity.
+- The User that clicks on "Add Activity" would be able to insert questions and possible answers, including selecting the correct answer, in the text fields provided before saving.
+- Once finished, the User can click the "Save" button which will give them the option to take them back to the Lesson Selection screen for further editing other lessons or continue working on the same one.
 
