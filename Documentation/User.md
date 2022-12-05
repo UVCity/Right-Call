@@ -48,5 +48,21 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 
 ## Upon Logging In
 <img src="Assets/admin_per.png" width="600">
--
+
+- Those logged in as a student, will be taken to the lesson selection screen as seen earlier in this dicumentation.
+- Any other will be directed to the admin page (both admin page and instuctor page would be very similar with the only difference being that admins can't upload videos)
+
+## Uploading Videos
+<img src="Assets/upload_vid.png" width="600">
+
+- To upload a video, the user would click on the select video button, and then they would select a video from their computer.
+- Once selected, they would then click upload and if it works, it would direct them back to the user page and a lesson would succesfully be created.
+- If not, an error message would appear.
+
+## Deleting Videos/Lessons
+
+- All lessons would appear on the users (admin/instructor) screen that they have access to/created.
+- If the user wants to delete a lesson, they would click on the lesson.
+- A popup would then appear asking if they would like to delete that specific video. If they click yes, the video would be erased and if they click no, it would direct them back to their previous page.
+
 
