@@ -30,3 +30,5 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - This Lesson results pop-up includes the % of right and wrong calls that a user has made during the lesson.
 - The lesson results pop-up includes the title of each question that asked while watching the video, and if they were answered correctly or incorrectly.
 - After viewing the results, the user should press the "Back to Lesson Selection Page" button which sends them back to the original page to select another video.
+
+## Register For The Website
