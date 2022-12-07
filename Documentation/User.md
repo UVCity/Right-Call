@@ -13,7 +13,7 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - User must enter an email, and create a username and password for the use of the website.
 - User can also register as a student, instructor, or admin.
 - Student role: can take the quizzes.
-- Admin role: allows you upload and delete videos, and add questions at specific timestamps to each video.
+- Admin role: allows you to upload and delete videos, and add questions at specific timestamps to each video.
 - Instructor role: can alter and add their own questions to timestamps for each video added by the admin.
 - Once all boxes are filled, the user hits the register button and if successful, it will direct them back to the Login Screen for them to now login.
 
