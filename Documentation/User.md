@@ -7,9 +7,9 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - If the user does not have an account, the user can go to the Register Page from the Login Page by clicking on the register button at the top right of the page.
 - User must enter an email, and create a username and password for the use of the website.
 - User can also register as a student, instructor, or admin.
-- Students can take the quizzes.
-- Admin role allows you upload and delete videos, and add questions at specific timestamps to each video.
-- Instructors can alter and add their own questions to timestamps for each video added by the admin.
+- Student role: can take the quizzes.
+- Admin role: allows you upload and delete videos, and add questions at specific timestamps to each video.
+- Instructor role: can alter and add their own questions to timestamps for each video added by the admin.
 - Once all boxes are filled, the user hits the register button and if successful, it will direct them back to the Login Screen for them to now login.
 
 ## Login to The Website
@@ -17,7 +17,46 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 
 - If one is already registered, they can enter their username (or email) and password to login into their account in the text fields provided.
 - If the account exists, they will be directed to their respective page based on if they registered as student, instructor, or admin.
-- If the account does not exist, they will remain on the Login Page with a message saying "Invalid Username or Password".
+- If the account does not exist or the username or password is incorrect, they will remain on the Login Page with a message saying "Invalid Username or Password".
+
+# Upon Logging In
+## Admin Logged In
+
+<img src="Assets/admin_per.png" width="600">
+
+- If an admin logs in, they will have three options to choose from. They could either upload a lesson video, delete the lesson video, or assign questions/activities at specific timestamps to a lesson.
+
+## Uploading Videos
+<img src="Assets/upload_vid.png" width="600">
+
+- If the admin selects the Upload Lesson Video link, the admin will be redirected to the upload video page. 
+- To upload a video, the user would click on the select video button, and then they would select a video file from their computer.
+- Once selected, they would then click upload and if it works, it would direct them back to the user page and a lesson would succesfully be created.
+- A message will appear to let the admin know the video is still uploading.
+- The video may take a little bit (around 10 seconds) to upload, so don't click upload again or anything else until redirected back to the admin page. 
+
+
+## Deleting Videos/Lessons
+<img src="Assets/delete_vid.png" width="600">
+
+- All lessons would appear on the users (admin/instructor) screen that they have access to/created.
+- If the user wants to delete a lesson, they would click on the lesson.
+- A popup would then appear asking if they would like to delete that specific video. If they click yes, the video would be erased and if they click no, it would direct them back to their previous page.
+
+## Adding Timestamps to Existing Lessons
+<img src="Assets/create_lesson.png" width="600">
+
+- The admin/instructor can see what lesson s they had created and like deletion, they can click on the lesson they wish to edit.
+- The User would be taken to a Lesson Creation page where they can add timestamps to the video they uploaded to the lesson and even attach an activity (only multiple choice questions) to the video.
+- User would click the "Add Timestamp Here" button to save a timestamp where that timestamp would then appear in a menu above the big button with an additional option to add an activity.
+- The User that clicks on "Add Activity" would be able to insert questions and possible answers, including selecting the correct answer, in the text fields provided before saving.
+- Once finished, the User can click the "Save" button which will give them the option to take them back to the Lesson Selection screen for further editing other lessons or continue working on the same one.
+
+<img src="Assets/admin_per.png" width="600">
+
+- Those logged in as a student, will be taken to the lesson selection screen as seen earlier in this documentation.
+- Any other will be directed to the admin page (both admin page and instuctor page would be very similar with the only difference being that admins can't upload videos).
+
 
 ## Navigation
 - Currently the navigation bar at the top, is for visual purposes only. 
@@ -48,33 +87,4 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - This Lesson results pop-up includes the % of right and wrong calls that a user has made during the lesson.
 - The lesson results pop-up includes the title of each question that asked while watching the video, and if they were answered correctly or incorrectly.
 - After viewing the results, the user should press the "Back to Lesson Selection Page" button which sends them back to the original page to select another video.
-
-## Upon Logging In
-<img src="Assets/admin_per.png" width="600">
-
-- Those logged in as a student, will be taken to the lesson selection screen as seen earlier in this dicumentation.
-- Any other will be directed to the admin page (both admin page and instuctor page would be very similar with the only difference being that admins can't upload videos).
-
-## Uploading Videos
-<img src="Assets/upload_vid.png" width="600">
-
-- To upload a video, the user would click on the select video button, and then they would select a video from their computer.
-- Once selected, they would then click upload and if it works, it would direct them back to the user page and a lesson would succesfully be created.
-- If not, an error message would appear.
-
-## Deleting Videos/Lessons
-<img src="Assets/delete_vid.png" width="600">
-
-- All lessons would appear on the users (admin/instructor) screen that they have access to/created.
-- If the user wants to delete a lesson, they would click on the lesson.
-- A popup would then appear asking if they would like to delete that specific video. If they click yes, the video would be erased and if they click no, it would direct them back to their previous page.
-
-## Adding Timestamps to Existing Lessons
-<img src="Assets/create_lesson.png" width="600">
-
-- The admin/instructor can see what lesson s they had created and like deletion, they can click on the lesson they wish to edit.
-- The User would be taken to a Lesson Creation page where they can add timestamps to the video they uploaded to the lesson and even attach an activity (only multiple choice questions) to the video.
-- User would click the "Add Timestamp Here" button to save a timestamp where that timestamp would then appear in a menu above the big button with an additional option to add an activity.
-- The User that clicks on "Add Activity" would be able to insert questions and possible answers, including selecting the correct answer, in the text fields provided before saving.
-- Once finished, the User can click the "Save" button which will give them the option to take them back to the Lesson Selection screen for further editing other lessons or continue working on the same one.
 
