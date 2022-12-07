@@ -28,6 +28,24 @@ This will build the container, and install all of the dependencies needed to get
 <img src="../Documentation/Assets/start_in_dev_container.png">
 2. If the project is running too slow, please provide Docker with more resources through the Docker Daemon on desktop. Follow the <a href="https://docs.docker.com/config/containers/resource_constraints/"> Docker Documentation for adding more resources</a>
 
+## Starting the API
+Since the api is running node, there is a similar process to starting the front end.
+
+1. Start with a terminal at the root of your project. Then <br>
+>   `cd api`<br>
+    `npm install` <br>
+>
+This will install all dependencies needed for the api.
+<img src="../Documentation\Assets\deps_for_api.png" alt="Install deps for API">
+
+2. Now we can run the command<br>
+    `npm start`<br>
+And the server will be running on port 3000.
+<img src="../Documentation\Assets\server_started.png" alt="server running">
+
+The API is now running and ready to recieve requests.
+
+
 
 ## Starting the Front End
 1. The most important package is Node.js, this will be used to download most of the other dependencies. The download link is https://nodejs.org/en/download/
@@ -59,6 +77,13 @@ This project uses Jest as a testing framework. All tests can be run through npm.
  >`Npm run test:unit`<br>
  3. All tests will run and the output will be placed in the console.
 <img src="../Documentation\Assets\console_after_tests.png" alt="console after tests">
+
+### For backend tests
+In the terminal, if you are in the api folder, running
+>
+`npm test`
+>
+Will run all the backend tests in the __test__ folder
 
 ## Writing Tests
 Sample Test

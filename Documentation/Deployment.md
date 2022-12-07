@@ -8,6 +8,11 @@ For the web app, navigate to the web folder, then use <br>
 
 This will run the web app, and serve up the home page at the url the deployment app tells.
 
+For the API, navigate to the api folder, then use <br>
+>npm start<br>
+
+This will run the node server , and it will await requests.
+
 
 ## Stop system
 Thes servers can easily stopped by pressing (Ctrl + C) on the terminal running the proccess. This will send the kill command and stop the service.
