@@ -7,7 +7,7 @@
 - FR6: The video must stop and ask the user what they think the call is at each timestamp call. - HIGH - BR1
 - FR7: User shall select their answer to each timestamped call throughout the video/lesson. - HIGH - BR1
 - FR8: Admin should be able to upload, alter, and delete videos from the database through the application. - MEDIUM - BR1
-- FR9: A instructor should be able make their own version of a lesson. - MEDIUM - BR1
+- FR9: A instructor should be able make their own version of a lesson and save it in the database. - MEDIUM - BR1
 - FR10: User shall receive immediate feedback based on the result of each timestamp action - MEDIUM - BR2
 - FR11: User should see on the screen where they were meant to be looking if the system detects no webcam was used. - LOW - 
   BR2
@@ -19,7 +19,14 @@
 - FR17: The application should store all of the user's results for each lesson under the user's account - Medium - BR2.
 - FR18: The admin should be able to login and logout of the application. - Medium - BR1
 - FR19: Instructors should be able to login and logout of the application - Medium - BR1
-- FR20: Instructor should be able to custom timestamps and questions into the database for a lesson. - Medium- BR1
+- FR20: Instructor should be able to add custom timestamps and questions into the database for a lesson. - Medium- BR1
+- FR21: An Admin can create a full lesson with many video clips and questions and publish it when ready. - Medium - BR1
+- FR22: An instructor should be able to create a class with students in it, and students should be assigned to that instructor. - Medium - BR1
+- FR23: An instructor should be able to assign their custom lesson to a class. - Medium - BR1
+- FR24: An instructor should be able to see the results of each of their students. - Medium - BR1
+- FR25: A student should see their instructors name, and any lessons that they have been assigned. - Medium - BR1
+- FR26: A student can toggle on eye tracking, and a dot will follow where they are looking on the screen. - Medium - BR2
+
 
 
 ## Non-functional Requirements
