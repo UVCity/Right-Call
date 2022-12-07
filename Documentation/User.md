@@ -1,6 +1,24 @@
 # Ref Reps User Manual
 This is the documentation that guides a user on how to use the Ref-Reps Right call Application
 
+## Register for the Website
+<img src="Assets/register_screen.png" width="600">
+
+- If the user does not have an account, the user can go to the Register Page from the Login Page by clicking on the register button at the top right of the page.
+- User must enter an email, and create a username and password for the use of the website.
+- User can also register as a student, instructor, or admin.
+- Students can take the quizzes.
+- Admin role allows you upload and delete videos, and add questions at specific timestamps to each video.
+- Instructors can alter and add their own questions to timestamps for each video added by the admin.
+- Once all boxes are filled, the user hits the register button and if successful, it will direct them back to the Login Screen for them to now login.
+
+## Login to The Website
+<img src="Assets/login_screen.png" width="600">
+
+- If one is already registered, they can enter their username (or email) and password to login into their account in the text fields provided.
+- If the account exists, they will be directed to their respective page based on if they registered as student, instructor, or admin.
+- If the account does not exist, they will remain on the Login Page with a message saying "Invalid Username or Password".
+
 ## Navigation
 - Currently the navigation bar at the top, is for visual purposes only. 
 <img src="Assets/home_page.png" width="600">
@@ -30,22 +48,6 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - This Lesson results pop-up includes the % of right and wrong calls that a user has made during the lesson.
 - The lesson results pop-up includes the title of each question that asked while watching the video, and if they were answered correctly or incorrectly.
 - After viewing the results, the user should press the "Back to Lesson Selection Page" button which sends them back to the original page to select another video.
-
-## Register for the Website
-<img src="Assets/register_screen.png" width="600">
-
-- If one does not have an account, they are can go to the Register Page from the Login Page.
-- User can create a username and password for the use of the website.
-- User can also register as a student, instructor, or admin.
-- Once all boxes are filled, they hit the register button and if successful, it will direct them back to the Login Screen.
-
-## Login to The Website
-<img src="Assets/login_screen.png" width="600">
-
-- If one is already registered, they can enter their username and password to login into their account in the text fields provided.
-- If the account exists, they will be directed to their respective page based on if they registered as student, instructor, or admin.
-- Note: Admin option is only temporary.
-- If the account does not exist, they will remain on the Login Page with a message saying "Invalid Username or Password".
 
 ## Upon Logging In
 <img src="Assets/admin_per.png" width="600">
