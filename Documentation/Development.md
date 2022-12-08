@@ -20,6 +20,13 @@ The source code for this project is located at:<br>
 This project is written in two distinct elements.
 - The Presentation layer will be in the web folder. All visual frontend code will be based in this folder.This will primarily be written in Vue and Typescript.
 
+## Managing Environmental Variables
+The API and Web both contain secrent connection variables that are essential for them to function. To use them:
+1. Ask a current developer for their .env file.
+2. Copy the sample.env file from your project
+3. paste the file in the same place, and rename it .env
+4. Paste the values of a current users .env file.
+
 ## Replicate via Docker
 This project contains a .devcontainer file that can be rna to ensure all developers have the same VSCode extenstions installed. Running in a dev container can take a lot of resources, but it helps ensure that the project is run in similar environments on each machine.
 
