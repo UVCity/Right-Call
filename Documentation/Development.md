@@ -102,7 +102,7 @@ Sample Test
 Try to write a test for every function a component has. Try to be as comprehensive as possible.
 
 # Linting
-  This project uses the default ypescript style guide. It will only check .ts files, so as we progress more into typescript this will become more beneficial. To run the linet navigate to the web or the api folder. From there run 
-  >`npm lint`
+  This project uses the default typescript style guide. It will only check .ts files, so as we progress more into typescript this will become more beneficial. To run the linter navigate to the web or the api folder. From there run 
+  >`npm run lint`
   
   This will mark any styling errors and is encouraged to run before every push to main.
