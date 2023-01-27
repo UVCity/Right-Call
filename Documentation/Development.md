@@ -100,3 +100,9 @@ Sample Test
 3. Write your test case. In the it() write the actions that your test will be taking, and at the end expect a value.
 
 Try to write a test for every function a component has. Try to be as comprehensive as possible.
+
+# Linting
+  This project uses the default ypescript style guide. It will only check .ts files, so as we progress more into typescript this will become more beneficial. To run the linet navigate to the web or the api folder. From there run 
+  >`npm lint`
+  
+  This will mark any styling errors and is encouraged to run before every push to main.
