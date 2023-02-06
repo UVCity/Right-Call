@@ -95,7 +95,7 @@ Will run all the backend tests in the __test__ folder
  ### For Integration Tests
  This project uses the Cypress testing framework.
  1. Make sure both api (`npm start` in api directory) and front end (`npm run serve` in web directory) are both running in terminals before running these tests. 
- 2. Run the command <br>
+ 2. Set web as your current directory in the terminal and run the command <br>
  >`npx cypress run`<br>
  3. All integration tests will run and the output will be placed in the console. 
  <img src="../Documentation\Assets\integrationTestResults.png" alt="console display after tests">
