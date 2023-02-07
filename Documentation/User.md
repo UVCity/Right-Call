@@ -152,8 +152,8 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 <img src="Assets/calibrationPage.png" width="600">
 
 - If the student selects accept to use their webcam, they are sent to the eye-tracking calibratiom page.
-- This page must be completed only once per login session.
-- The student must wait around 5-10 seconds for the red dot to show up on their screen. Once it displays, the student must click all five buttons five teams each until each one is red. 
+- This page is only completed once per login session.
+- The student must wait around 5-10 seconds for the red dot to show up on their screen. Once it displays, the student must click all five buttons five times each until each one is red. 
 - After that, select the button in the middle that shows up.
 - The student is sent back to the video, and they can press play and start the quiz.
 - Questions can show up at any timestamps. 
