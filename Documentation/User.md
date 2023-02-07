@@ -161,7 +161,7 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 <img src="Assets/eyeTrackingQuestion2.png" width="600">
 
 - An eye-tracking quesiton may show up, and the student must look at the quadrant of the screen they think the answer is in.
-- A screen will display after the question if the student looked at the right part of the screen.
+- A screen will display after the question to say if the student looked at the right part of the screen.
 
 ## Lesson Results
 <img src="Assets/endResults.png" width="600">
