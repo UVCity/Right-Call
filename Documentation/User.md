@@ -90,7 +90,7 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - They can add questions to timestamps and the page operates identically to the admin's assign timestamps and questions page that has been described in detail above in the admin instructions.
 - The instructor can just click the Instructor Page button at the top of the screen to go back to their home page where they can select what they want to do.
 
-<img src="Assets/CreateClass.png" width="600">
+<img src="Assets/createClass.png" width="600">
 
 - When the instructor chooses the Create Classroom Page button, they are directed to the Classroom Creation page.
 - The Instructor must enter a class name.
@@ -98,18 +98,18 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - Any students they click on will show up in the column to the right of Selected Students. 
 - When the instructor is done adding students, they must click the Create Class button to officially create the class. 
 
-<img src="Assets/AddVideosToClass.png" width="600">
+<img src="Assets/addVideosToClass.png" width="600">
 
 - After creating a class, they are back on the instructor page, and then the instructor can click the Update Class option. 
 - On this page, they can see all of the classes they have created, along with the number of students and videos in the class.
 - The instructor can add/remove students to and from the class, and they can also add/remove videos to the class. 
 
-<img src="Assets/AddStudentsToClass.png" width="600">
+<img src="Assets/addStudentsToClass.png" width="600">
 
 - Instructor can select the Add/Remove Students button.
 - The instructor sees all available students, and can either click a student from the top section to remove from the class or a student from the bottom section to add to the class.
 
-<img src="Assets/AddVideosToInstructorClass.png" width="600">
+<img src="Assets/addVideosToInstructorClass.png" width="600">
 
 - Instructor can select the Add/Remove Lessons button.
 - Here they can see all available videos/lessons they can add to the class.
