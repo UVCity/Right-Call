@@ -58,7 +58,7 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 
 <img src="Assets/openVideo.png" width="600">
 
-- The User would be taken to a Lesson Creation page where they can add timestamps to the video they uploaded and cannot save/upload the lesson until they attach a question, with two answer choices and the correct answer (only multiple choice questions).
+- The User would be taken to a Lesson Creation page where they can add timestamps to the video they uploaded and cannot save/upload the lesson until they attach a question to it.
 
 <img src="Assets/addTimestampHere.png" width="600">
 
