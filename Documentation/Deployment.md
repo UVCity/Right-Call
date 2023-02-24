@@ -1,4 +1,4 @@
-# Development
+# Deployment
 ## Servers needed
 The web and api are both node servers. They can run on any system that can run node. 
 
