@@ -33,23 +33,23 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - The admin can click the Admin button at the top of the screen to go back to the main admin page after doing any of the three actions.
 
 ## Uploading Videos
-<img src="Assets/upload_vid.png" width="600">
+<img src="Assets/uploadMultiple.PNG" width="600">
 
 - If the admin selects the Upload Lesson Video link, the admin will be redirected to the upload video page. 
 - To upload a video, the user would click on the select video button, and then they would select a video file from their computer.
+- Multiple files can be uploaded at the same time.
 - For the video input, there are three supported types of videos that can be uploaded: MP4, WebM, and Ogg.
-- Once selected, they would then click upload and if it works, it would direct them back to the admin page and a lesson would succesfully be created.
+- Once selected, they would then click upload and if it works, it would direct them back to the admin page and a lesson(s) would succesfully be created.
 - A message will appear to let the admin know the video is still uploading.
 - The video may take a little bit (around 10 seconds) to upload, so don't click upload again or anything else until redirected back to the admin page. 
 
 
 ## Deleting Videos/Lessons
-<img src="Assets/delete_vid.png" width="600">
+<img src="Assets/deleteLessonsOrVideos.PNG" width="600">
 
-- If the admin selects the Delete Lesson link, the admin will be redirected to the delete lesson page. 
-- All lessons would appear on the admins screen that they have access to/created.
-- If the user wants to delete a lesson, they would click on the lesson.
-- A popup would then appear asking if they would like to delete that specific video. If they click yes, the video would be erased and if they click no, it would direct them back to their previous page.
+- Clicking the Delete Lessons button on the Admin page will allow an admin to delete Videos or entire Lessons.
+- Clicking the Delete Video in Lesson option will allow the Admin to select which specific video to delete. All Activities and Feedback associated with the video will be deleted from the database, along with the video itself.
+- Clicking the Delete Entire Lesson option will delete all videos, Activities, and Feedback from the database associated with the entire Lesson.
 
 ## Adding Timestamps/Questions/Feedback to Existing Lessons
 <img src="Assets/assignTimestampsAndQuestions.png" width="600">
