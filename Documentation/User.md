@@ -79,8 +79,11 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - For the eye-tracking question, you can write the question, and then choose the quadrant of the screen the student should be looking at. 
 - On the "Assign New Activity" popup, the user must click the save button if they wish to attach the question to the timestamp. Clicking close would not add the question to the timestamp, and the admin would need to add the question again.
 - Once finished adding questions and timestamps, the User can click the "Save" button at the bottom left corner of the timestamps and activities list which will upload the timestamps and questions and redirect the user back to the page where they can select lessons to add timestamps to.
-- If the user is done editing lessons, they can click the Admin button to go back to the main admin page.
+- If the user is done editing lessons, they can click the Save button to go back to the main admin page.
 
+<img src="dragAndDropActivity.png" width="600">
+- Drag and Drop questions let the user drag the options exactly where they want on top of the video. An image of the video frame from the Activity's timestamp will be displayed, and input options or number options can be dragged on top. 
+- Once inputs are dragged onto the picture, they can be typed in to establish their value during the actual quiz. Any option, number or text, can be deleted by clicking the red X. All of the inputs of a certain type can be reset by clicking its respective Reset button. If you have numbers 1-4 dragged onto the picture, and delete one of them, all numbers that are higher than the deleted number will decrement to keep the proper order.
 
 ## Instructor Logged In
 <img src="Assets/instructorHomePage.png" width="600">
