@@ -40,8 +40,8 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - Multiple files can be uploaded at the same time.
 - For the video input, there are three supported types of videos that can be uploaded: MP4, WebM, and Ogg.
 - Once selected, they would then click upload and if it works, it would direct them back to the admin page and a lesson(s) would succesfully be created.
-- A message will appear to let the admin know the video is still uploading.
-- The video may take a little bit (around 10 seconds) to upload, so don't click upload again or anything else until redirected back to the admin page. 
+- A message will appear to let the admin know the lesson is still uploading.
+- The lesson may take a little bit (around 10 seconds per video in lesson) to upload, so don't click upload again or anything else until redirected back to the admin page. 
 
 
 ## Deleting Videos/Lessons
@@ -60,6 +60,7 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 
 - The User would be taken to a Lesson Creation page where they can add timestamps to the video they uploaded and cannot save/upload the lesson until they attach a question to it.
 - User would click the "Add Timestamp Here" button to save a timestamp where that timestamp would then appear in a menu above the big button with an additional option to add an activity.
+- The user can also update the lesson name at any time by typing in the new name and clicking the Update Name button.
 - The user cannot save/upload the timestamp until each timestamp has a filled out question attached to it.
 
 <img src="Assets/questionTypeOptions.PNG" width="600">
@@ -86,14 +87,12 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 <img src="Assets/newFeedback.PNG" width="600">
 
 - Creating Feedback for quiz questions works very similar to how creating an activity works. Once you Add a Timestamp, you will be able to click on the right button to add the Feedback. Clicking that button will bring up the Feedback modal. 
+- An Activity will not be uploaded and saved unless both the question and feedback are filled out.
 
 ## Instructor Logged In
 <img src="Assets/instructorHomePage.png" width="600">
 
-- When an instructor logs in, their middle button on the instructor page is to edit the current lessons already uploaded by the admins. 
-- Clicking on a lesson would send them to the exact same assign timestamps and questions to the lesson page as the admin.
-- They can add questions to timestamps and the page operates identically to the admin's assign timestamps and questions page that has been described in detail above in the admin instructions.
-- The instructor can just click the Instructor Page button at the top of the screen to go back to their home page where they can select what they want to do.
+- When an instructor logs in, they will see four buttons to choose from.
 
 <img src="Assets/createClass.png" width="600">
 
@@ -106,21 +105,22 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 <img src="Assets/addVideosToClass.png" width="600">
 
 - After creating a class, they are back on the instructor page, and then the instructor can click the Update Class option. 
-- On this page, they can see all of the classes they have created, along with the number of students and videos in the class.
-- The instructor can add/remove students to and from the class, and they can also add/remove videos to the class. 
+- On this page, they can see all of the classes they have created, along with the number of students and lessons in the class.
+- The instructor can add/remove students to and from the class, and they can also add/remove lessons to the class. 
+- They can only add their own custom lessons to their classes.
 
 <img src="Assets/addStudentsToClass.png" width="600">
 
 - Instructor can select the Add/Remove Students button.
-- The instructor sees all available students, and can either click a student from the top section to remove from the class or a student from the bottom section to add to the class.
+- The instructor sees all available students, and can either click a student from the left section to remove from the class or a student from the right section to add to the class.
 
 <img src="Assets/addVideosToInstructorClass.png" width="600">
 
 - Instructor can select the Add/Remove Lessons button.
-- Here they can see all available videos/lessons they can add to the class.
-- Right now there are zero videos in the class, to add one, the instructor can just click a video from the bottom section.
-- To remove a video from the class, the instructor must select a video from the top section.
-- All students can only take video quizzes that are assigned to the classes they are in.
+- Here they can see all of their custom lessons they can add to the class.
+- Right now there are zero lessons in the class, to add one, the instructor can just click a lesson from the right section.
+- To remove a lesson from the class, the instructor must select a lesson from the left section.
+- All students can only take video quizzes in lessons that are assigned to the classes they are in.
 
 <img src="Assets/createCustomLesson.PNG" width="600">
 
@@ -147,9 +147,14 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - Select a lesson by clicking on a lesson object.
 
 ## Completing a Lesson
+<img src="Assets/availableQuizzes.png" width="600">
+
+- After selecting a lesson, the user sees the quizzes in the lesson.
+- The user can then select a quiz to take.
+
 <img src="Assets/webcamPermission.png" width="600">
 
-- After selecting a lesson, the user is asked if they want to use their camera for eye-tracking questions. 
+- After selecting a quiz, the user is asked if they want to use their camera for eye-tracking questions. 
 
 <img src="Assets/video_start.png" width="600">
 
@@ -173,7 +178,12 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - If the student selects accept to use their webcam, they are sent to the eye-tracking calibratiom page.
 - This page is only completed once per login session.
 - The student must wait around 5-10 seconds for the red dot to show up on their screen. Once it displays, the student must click all five buttons five times each until each one is red. 
-- After that, select the button in the middle that shows up.
+- A pop-up then appears telling you to stare at the red button in the middle of the screen for 5 seconds to check the accuracy of the eye-tracking.
+- The user closes the pop-up and stares at the red button.
+- After 5 seconds, two buttons appear. 
+- One to redo the eye-tracking calibration and another to go back to the quiz.
+- If the user feels like the red dot wasn't accurate when staring at the middle button, they can choose to redo it.
+- If it was accurate, they can select the go back to the quiz button.
 - The student is sent back to the video, and they can press play and start the quiz.
 - Questions can show up at any timestamps. 
 
