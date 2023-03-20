@@ -60,14 +60,14 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 
 - The User would be taken to a Lesson Creation page where they can add timestamps to the video they uploaded and cannot save/upload the lesson until they attach a question to it.
 
-<img src="Assets/newTimestamp.png" width="600">
+<img src="Assets/newTimestamp.PNG" width="600">
 
 - User would click the "Add Timestamp Here" button to save a timestamp where that timestamp would then appear in a menu above the big button with an additional option to add an activity.
 - The user cannot save/upload the timestamp until each timestamp has a filled out question attached to it.
 
 <img src="Assets/questionTypeOptions.png" width="600">
 
-- The User then clicks on "Activity", and would be able to insert a question and possible answer choices, including selecting the correct answer, in the text fields provided before saving. 
+- The User then clicks on the left icon beside the timestamp to create a new activity, and would be able to insert a question and possible answer choices, including selecting the correct answer, in the text fields provided before saving. 
 - The User has the option of creating a multiple choice, short answer, or Eye Tracking question.
 
 <img src="Assets/create_lesson.png" width="600">
@@ -82,8 +82,13 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - If the user is done editing lessons, they can click the Save button to go back to the main admin page.
 
 <img src="Assets/dragAndDropActivity.PNG" width="600">
+
 - Drag and Drop questions let the user drag the options exactly where they want on top of the video. An image of the video frame from the Activity's timestamp will be displayed, and input options or number options can be dragged on top. 
 - Once inputs are dragged onto the picture, they can be typed in to establish their value during the actual quiz. Any option, number or text, can be deleted by clicking the red X. All of the inputs of a certain type can be reset by clicking its respective Reset button. If you have numbers 1-4 dragged onto the picture, and delete one of them, all numbers that are higher than the deleted number will decrement to keep the proper order.
+
+<img src="Assets/newFeedback.PNG" width="600">
+
+- Creating Feedback for quiz questions works very similar to how creating an activity works. Once you Add a Timestamp, you will be able to click on the right button to add the Feedback. Clicking that button will bring up the Feedback modal. 
 
 ## Instructor Logged In
 <img src="Assets/instructorHomePage.png" width="600">
