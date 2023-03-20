@@ -29,11 +29,12 @@
 - FR27: The admin and instructor can add different types of questions, including asking what section of the screen the foul occurs in, text input, multiple choice - Medium - BR1
 - FR28: The user should be able to calibrate the eye tracker to increase accuracy - Medium - BR2
 - FR29: A student can answer all types of questions, and should be able to answer an eye tracking question, without a camera on. - Medium - BR2
-- FR30: A student should see their instructors name on each quiz - Medium - BR1
+- FR30: A student should see their instructors name on each lesson - Medium - BR1
 - FR31: An instructor can add/remove lessons and students to and from each of their classes. - Medium - BR1
 - FR32: An instructor or admin will be able to create a Drag-n-drop question, where the question will give a word bank and the image of the timestamp, and the student will move the words to the right location on screen. - Low - BR1
 - FR33: A student should see increased accuracy and calibration in the eye tracking. - Medium - BR2
 - FR34: The students time it takes to answer for each question is stored and checked for a different type of feedback. - Low - BR2
+- FR35: FR35: An Admin can delete a whole lesson, or a specific video in the lesson. - Medium - BR1
 
 
 
