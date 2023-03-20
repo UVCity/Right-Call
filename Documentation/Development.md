@@ -23,9 +23,15 @@ This project is written in two distinct elements.
 ## Managing Environmental Variables
 The API and Web both contain secrent connection variables that are essential for them to function. To use them:
 1. Ask a current developer for their .env file.
-2. Copy the sample.env file from your project
-3. paste the file in the same place, and rename it .env
-4. Paste the values of a current users .env file.
+
+For the web folder:
+1. Create a new file called .env in the web folder.
+2. Paste the values of a current users .env file.
+
+For the api folder: 
+1. Copy the sample.env file from your project
+2. paste the file in the same place, and rename it .env
+3. Paste the values of a current users .env file.
 
 ## Replicate via Docker
 This project contains a .devcontainer file that can be rna to ensure all developers have the same VSCode extenstions installed. Running in a dev container can take a lot of resources, but it helps ensure that the project is run in similar environments on each machine.
