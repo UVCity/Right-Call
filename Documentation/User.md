@@ -59,13 +59,10 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 <img src="Assets/openVideo.png" width="600">
 
 - The User would be taken to a Lesson Creation page where they can add timestamps to the video they uploaded and cannot save/upload the lesson until they attach a question to it.
-
-<img src="Assets/newTimestamp.PNG" width="600">
-
 - User would click the "Add Timestamp Here" button to save a timestamp where that timestamp would then appear in a menu above the big button with an additional option to add an activity.
 - The user cannot save/upload the timestamp until each timestamp has a filled out question attached to it.
 
-<img src="Assets/questionTypeOptions.png" width="600">
+<img src="Assets/questionTypeOptions.PNG" width="600">
 
 - The User then clicks on the left icon beside the timestamp to create a new activity, and would be able to insert a question and possible answer choices, including selecting the correct answer, in the text fields provided before saving. 
 - The User has the option of creating a multiple choice, short answer, or Eye Tracking question.
@@ -124,6 +121,20 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - Right now there are zero videos in the class, to add one, the instructor can just click a video from the bottom section.
 - To remove a video from the class, the instructor must select a video from the top section.
 - All students can only take video quizzes that are assigned to the classes they are in.
+
+<img src="Assets/createCustomLesson.PNG" width="600">
+
+- An Instructor can create a copy of an Admin template lesson, and customize it to meet their own wants and needs. 
+- From the Instructor page, clicking the Create Custom Lesson Pack button will direct them to a page containing the Admin template lessons available. The Instructor can select one of these to copy.
+
+<img src="Assets/customLesson.PNG" width="600">
+
+<img src="Assets/newCustomLesson.PNG" width="600">
+
+<img src="Assets/lessonEditor.PNG" width="600">
+
+- Back on the Intructor page, clicking the Update Your Lessons button will take you to a page that contains all of the Lesson Packs for that specific Instructor account. From here, an Instructor can select the lesson they want to edit, and they will go to the AssignTimestamps page, much the same as an admin.
+- From here, they can make any edits or customizations that will be completely their own. No other Instructors will have the edits that are made to that lesson.
 
 ## Student Logged In
 
