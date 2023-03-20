@@ -60,7 +60,7 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 
 - The User would be taken to a Lesson Creation page where they can add timestamps to the video they uploaded and cannot save/upload the lesson until they attach a question to it.
 
-<img src="Assets/addTimestampHere.png" width="600">
+<img src="Assets/newTimestamp.png" width="600">
 
 - User would click the "Add Timestamp Here" button to save a timestamp where that timestamp would then appear in a menu above the big button with an additional option to add an activity.
 - The user cannot save/upload the timestamp until each timestamp has a filled out question attached to it.
