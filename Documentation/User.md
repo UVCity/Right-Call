@@ -51,7 +51,7 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - If the user wants to delete a lesson, they would click on the lesson.
 - A popup would then appear asking if they would like to delete that specific video. If they click yes, the video would be erased and if they click no, it would direct them back to their previous page.
 
-## Adding Timestamps/Questions to Existing Lessons
+## Adding Timestamps/Questions/Feedback to Existing Lessons
 <img src="Assets/assignTimestampsAndQuestions.png" width="600">
 
 - If the admin selected the Assign Timestamps and Question to a video link, the admin can see what lessons they have created and like the deletion page, they can click on the lesson they wish to edit.
