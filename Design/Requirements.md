@@ -34,7 +34,13 @@
 - FR32: An instructor or admin will be able to create a Drag-n-drop question, where the question will give a word bank and the image of the timestamp, and the student will move the words to the right location on screen. - Low - BR1
 - FR33: A student should see increased accuracy and calibration in the eye tracking. - Medium - BR2
 - FR34: The students time it takes to answer for each question is stored and checked for a different type of feedback. - Low - BR2
-- FR35: FR35: An Admin can delete a whole lesson, or a specific video in the lesson. - Medium - BR1
+- FR35: An Admin can delete a whole lesson, or a specific video in the lesson. - Medium - BR1
+- FR36: The user's eye-tracking question can be split into columns or rows(3rds or 4ths) instead of quadrants.
+- FR37: The instructor can add multiple students or lessons to and from a class all at one time, and not individually.
+- FR38: The user's best result for each quiz is stored.
+- FR39: The instructor can see the time it took for a user to answer a question.
+- FR40: The usability of the eye-tracking questions are improved, such as loading states and making sure the user knows its an eye-tracking question before starting the question immediately. 
+- FR41: The user has the option to view or hide teh eye-tracking red dot on the screen.
 
 
 
