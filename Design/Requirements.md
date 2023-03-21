@@ -41,6 +41,7 @@
 - FR39: The instructor can see the time it took for a user to answer a question.
 - FR40: The usability of the eye-tracking questions are improved, such as loading states and making sure the user knows its an eye-tracking question before starting the question immediately. 
 - FR41: The user has the option to view or hide teh eye-tracking red dot on the screen.
+- FR42: When an Instructor is adding timestamps, Icons are used to indicate question types. Question text is also easily viewable.
 
 
 
