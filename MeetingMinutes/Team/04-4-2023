@@ -1,0 +1,36 @@
+# Week of April 3rd
+
+## Meeting Start Time
+
+2023/04/04/12:30
+
+## Meeting End Time
+
+2023/04/04/1:30
+
+## Location/Medium
+
+Library/In-Person
+
+## Present
+
+Jeremiah, Lyle, Bradley, Luke, Josh
+
+## Minute Recorder
+
+Jeremiah
+
+## Topics Discussed
+- We will need to add more testing.
+- The new eye-tracking warning modal is having issues showing up and we discussed how this could be solved.
+- We disucssed how the instructor's results page can be improved and how to solve some of it's issues.
+
+## Things Clarified
+- We need to try to get our aws website up and running soon so that our client can finally use the eye-tracking feature themselves.
+
+## Tasks Distributed
+- Luke is working on displaying the question and more details when hovering over an activity on the AssignTimestamps page.
+- Jeremiah is working on storing the user's highest results and improving the styling of the results pages.
+- Josh is working on adding an eye-tracking warning to show up before each eye-tracking question.
+- Bradley worked on the storing the user's highest results feature, and is now going to focus on making our application an https live website instead of http.
+- Lyle is working on the instructor's results page and making sure the instructor can see each of their student's results for each lesson. 
