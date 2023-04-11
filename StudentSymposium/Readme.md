@@ -15,7 +15,7 @@ Person 2:
 
 Person 3: 
 
-<img src="Photos/personThree.jpg" width="600">
+<img src="Photos/person3.jpg" width="600">
 
 Person 4: 
 
