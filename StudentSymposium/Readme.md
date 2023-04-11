@@ -6,18 +6,23 @@
 (ps: forgot to get their names)
 
 Person 1: 
+
 <img src="Photos/personOne.jpg" width="600">
 
 Person 2: 
+
 <img src="Photos/personTwo.jpg" width="600">
 
 Person 3: 
+
 <img src="Photos/personThree.jpg" width="600">
 
 Person 4: 
+
 <img src="Photos/personFour.jpg" width="600">
 
 Person 5:
+
 <img src="Photos/personFive.jpg" width="600">
 
 ## Individual Experiences
