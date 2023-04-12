@@ -34,3 +34,6 @@ Bradley
 
 Jeremiah
 - I enjoyed my time at the symposium. I really liked seeing all of the other projects around us, and seeing how advanced some of the projects were. It was nice to talk about our project to people who were interested to learn about it. Overall, it was a good experience and I am glad I took part in it.
+
+Luke
+- The symposium was a really cool experience. Seeing projects from all different majors and fields was fun to see. Having people come up to us and show genuine interest in our project was nice. I am happy to have had the opportunity to participate. 
