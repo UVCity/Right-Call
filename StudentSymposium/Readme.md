@@ -40,3 +40,6 @@ Luke
 
 Lyle
  - A wonderful experience indeed . I think I enjoyed it not because of the responsibility & professionalism that took place , but I enjoyed it because I was surrounded by mainly other students whom are ready to graduate & are near peeking in their technical experience . I'm glad that I went , there were so many people that I did not expect to run into , and the only reason I did was because of the mix of student majors ; so cool !
+
+Josh
+- I really was intrigued by seeing all the dievrse projects and reasearch that was on display at the symposium today and I had a new sense of admiration for our project as well as all the others. Granted, it wasn't the most particularly exciting thing in the world, but I still found myself having a good time, especially when people aked about our project. I was happy to be part of an event such as this one.
