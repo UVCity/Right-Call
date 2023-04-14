@@ -215,6 +215,11 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - The student is sent back to the video, and they can press play and start the quiz.
 - Questions can show up at any timestamps. 
 
+<img src="Assets/hideRedDot.png" width="600">
+
+- At any time in the quiz, the student can toggle the 'Hide Eye-Tracking Red Dot' button at the bottom of the video.
+- This hides/displays the red dot on the screen.
+
 <img src="Assets/eye-TrackingQuestion.png" width="600">
 
 - An eye-tracking question may show up, and the student must look at the quadrant of the screen they think the answer is in.
