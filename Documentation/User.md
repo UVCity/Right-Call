@@ -59,14 +59,19 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 <img src="Assets/openVideo.png" width="600">
 
 - The User would be taken to a Lesson Creation page where they can add timestamps to the video they uploaded and cannot save/upload the lesson until they attach a question to it.
-- User would click the "Add Timestamp Here" button to save a timestamp where that timestamp would then appear in a menu above the big button with an additional option to add an activity.
+- User would click the "Timestamp" button to save a timestamp where that timestamp would then appear in a menu above the big button with an additional option to add an activity.
 - The user can also update the lesson name at any time by typing in the new name and clicking the Update Name button.
 - The user cannot save/upload the timestamp until each timestamp has a filled out question attached to it.
 
-<img src="Assets/questionTypeOptions.PNG" width="600">
+<img src="Assets/questionInfo.png" width="600">
+
+- To view the information of already added questions like the question, answer choices, and the correct answer, you just need to hover over the left icon for any activity.
+- When you hover over a question icon, a box will appear and display the specifics for that question.
+
+<img src="Assets/questionTypeOptions.png" width="600">
 
 - The User then clicks on the left icon beside the timestamp to create a new activity, and would be able to insert a question and possible answer choices, including selecting the correct answer, in the text fields provided before saving. 
-- The User has the option of creating a multiple choice, short answer, or Eye Tracking question.
+- The User has the option of creating a multiple choice, short answer, Eye Tracking, or Drag & Drop question.
 
 <img src="Assets/create_lesson.png" width="600">
 
@@ -75,6 +80,7 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 <img src="Assets/eyeTrackingQuestion.png" width="600">
 
 - For the eye-tracking question, you can write the question, and then choose the quadrant of the screen the student should be looking at. 
+- You also have the option to choose between Corner Quadrants and Vertical Quadrants of the screen.
 - On the "Assign New Activity" popup, the user must click the save button if they wish to attach the question to the timestamp. Clicking close would not add the question to the timestamp, and the admin would need to add the question again.
 - Once finished adding questions and timestamps, the User can click the "Save" button at the bottom left corner of the timestamps and activities list which will upload the timestamps and questions and redirect the user back to the page where they can select lessons to add timestamps to.
 - If the user is done editing lessons, they can click the Save button to go back to the main admin page.
@@ -92,7 +98,7 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 ## Instructor Logged In
 <img src="Assets/instructorHomePage.png" width="600">
 
-- When an instructor logs in, they will see four buttons to choose from.
+- When an instructor logs in, they will see five buttons to choose from.
 
 <img src="Assets/createClass.png" width="600">
 
@@ -114,11 +120,11 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - Instructor can select the Add/Remove Students button.
 - The instructor sees all available students, and can either click a student from the left section to remove from the class or a student from the right section to add to the class.
 
-<img src="Assets/addVideosToInstructorClass.png" width="600">
+<img src="Assets/addLessonsToInstructorClass.png" width="600">
 
 - Instructor can select the Add/Remove Lessons button.
 - Here they can see all of their custom lessons they can add to the class.
-- Right now there are zero lessons in the class, to add one, the instructor can just click a lesson from the right section.
+- Right now there are three lessons in the class, to add one, the instructor can just click a lesson from the right section.
 - To remove a lesson from the class, the instructor must select a lesson from the left section.
 - All students can only take video quizzes in lessons that are assigned to the classes they are in.
 
@@ -135,6 +141,28 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 
 - Back on the Intructor page, clicking the Update Your Lessons button will take you to a page that contains all of the Lesson Packs for that specific Instructor account. From here, an Instructor can select the lesson they want to edit, and they will go to the AssignTimestamps page, much the same as an admin.
 - From here, they can make any edits or customizations that will be completely their own. No other Instructors will have the edits that are made to that lesson.
+
+<img src="Assets/classResults.png" width="600">
+
+- Back on the Instructor Page, clicking the Student Results button, will send them to a page that shows the instructor all of their classes.
+
+<img src="Assets/lessonResults.png" width="600">
+
+- By clicking on a class, all of the lessons in the class appear.
+- To view the class' results for a lesson, the user should click on a lesson.
+
+<img src="Assets/studentResults.png" width="600">
+
+- After selecting a lesson, the instructor sees the students in the class.
+- To view the results of each student for the selected lesson, the instructor must select a student and the results will display to the right of the student list. 
+- The highest score for each quiz in the lesson taken by the student will display.
+- If the quiz contains any non eye-tracking or drag-and-drop questions, then they will have the option to view the time it took for the student to answer each question.
+
+<img src="Assets/studentTimes.png" width="600">
+
+- To view these times, the instructor selects the view buttton.
+- This displays the time it took for the student to answer each question.
+- Note: Eye-tracking and Drag & Drop questions do not have timers, so they don't have times.
 
 ## Student Logged In
 
@@ -175,9 +203,9 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 
 <img src="Assets/calibrationPage.png" width="600">
 
-- If the student selects accept to use their webcam, they are sent to the eye-tracking calibratiom page.
+- If the student selects accept to use their webcam, they are sent to the eye-tracking calibration page.
 - This page is only completed once per login session.
-- The student must wait around 5-10 seconds for the red dot to show up on their screen. Once it displays, the student must click all five buttons five times each until each one is red. 
+- The student must wait around 15-20 seconds for the red dot to show up on their screen. Once it displays, the student must click all five buttons five times each until each one is red. 
 - A pop-up then appears telling you to stare at the red button in the middle of the screen for 5 seconds to check the accuracy of the eye-tracking.
 - The user closes the pop-up and stares at the red button.
 - After 5 seconds, two buttons appear. 
@@ -187,9 +215,11 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 - The student is sent back to the video, and they can press play and start the quiz.
 - Questions can show up at any timestamps. 
 
-<img src="Assets/eyeTrackingQuestion2.png" width="600">
+<img src="Assets/eye-TrackingQuestion.png" width="600">
 
-- An eye-tracking quesiton may show up, and the student must look at the quadrant of the screen they think the answer is in.
+- An eye-tracking question may show up, and the student must look at the quadrant of the screen they think the answer is in.
+- A modal will display when it's time for an eye-tracking question.
+- It will contain the question, and also a warning that this is an eye-tracking question so that the user is ready to look at the video.
 - A screen will display after the question to say if the student looked at the right part of the screen.
 
 ## Lesson Results
@@ -204,4 +234,5 @@ This is the documentation that guides a user on how to use the Ref-Reps Right ca
 <img src="Assets/viewResults.png" width="600">
 
 - The student can click on the View Results button at the top of the screen to view the results to all of the lessons they have taken.
+- This results page contains the lesson name, quiz name, the trainee's highest score for the quiz, and the number of attempts the user has taken for the quiz.
 - To take another quiz, the student must click the refreps logo image at the top left of the screen, which will take them back to the lesson selection page.
